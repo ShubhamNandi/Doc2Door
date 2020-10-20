@@ -1,0 +1,6 @@
+.logo-container {
+    padding-top: 100px;
+    grid-area: subscribe;
+    animation: logo-spin infinite 5s linear;
+}
+
